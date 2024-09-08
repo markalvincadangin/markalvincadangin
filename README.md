@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markalvincadangin
 - 👀 I’m interested in coding and basketball.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on open-source projects, innovative coding challenges, and tech-driven solutions.
+- 💞️ I’m looking to collaborate on open-source projects that I can learn and enhance my coding skills.
 - 📫 How to reach me at my email markalvin.cadangin@wvsu.edu.ph
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am studying in West Visayas State University.

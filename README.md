@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and basketball.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on open-source projects, innovative coding challenges, and tech-driven solutions.
-- 📫 How to reach me via email, markalvin.cadangin@wvsu.edu.ph.
+- 📫 How to reach me at my email markalvin.cadangin@wvsu.edu.ph
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am studying in West Visayas State University.
 

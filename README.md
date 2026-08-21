@@ -23,7 +23,7 @@
 
 ## Featured Projects
 
-### <a href="https://github.com/markalvincadangin/smart-water-pump-controller"><img src="https://raw.githubusercontent.com/markalvincadangin/smart-water-pump-controller/main/app/src/main/res/drawable/app_logo.png" width="38" alt="SmartFlow logo" /></a> [SmartFlow — Field-Deployed IoT Water-Pump Controller](https://github.com/markalvincadangin/smart-water-pump-controller)
+### <a href="https://github.com/markalvincadangin/smart-water-pump-controller"><img src="https://raw.githubusercontent.com/markalvincadangin/smart-water-pump-controller/main/app/src/main/res/drawable/app_logo.png" width="34" height="34" align="absmiddle" alt="SmartFlow logo" /></a> [SmartFlow — Field-Deployed IoT Water-Pump Controller](https://github.com/markalvincadangin/smart-water-pump-controller)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -40,7 +40,7 @@
 
 ---
 
-### <a href="https://github.com/markalvincadangin/havenstay"><img src="https://raw.githubusercontent.com/markalvincadangin/havenstay/master/frontend/public/logo.svg" width="38" alt="HavenStay logo" /></a> [HavenStay BHMS — Bed-Level Property Management Platform](https://github.com/markalvincadangin/havenstay)
+### <a href="https://github.com/markalvincadangin/havenstay"><img src="https://raw.githubusercontent.com/markalvincadangin/havenstay/master/frontend/public/logo.svg" width="34" height="34" align="absmiddle" alt="HavenStay logo" /></a> [HavenStay BHMS — Bed-Level Property Management Platform](https://github.com/markalvincadangin/havenstay)
 
 ![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -57,7 +57,7 @@
 
 ---
 
-### <a href="https://github.com/markalvincadangin/laundry-shop-management-system"><img src="https://raw.githubusercontent.com/markalvincadangin/laundry-shop-management-system/main/frontend/public/assets/app-icon/app-icon.png" width="38" alt="Faith Laundry Shop logo" /></a> [Faith Laundry Shop — Laundry Management System Prototype](https://github.com/markalvincadangin/laundry-shop-management-system)
+### <a href="https://github.com/markalvincadangin/laundry-shop-management-system"><img src="https://raw.githubusercontent.com/markalvincadangin/laundry-shop-management-system/main/frontend/public/assets/app-icon/app-icon.png" width="34" height="34" align="absmiddle" alt="Faith Laundry Shop logo" /></a> [Faith Laundry Shop — Laundry Management System Prototype](https://github.com/markalvincadangin/laundry-shop-management-system)
 
 ![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Spring Boot 3.5](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)

@@ -112,10 +112,6 @@
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=markalvincadangin&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-<br/><br/>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=markalvincadangin&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
 </div>

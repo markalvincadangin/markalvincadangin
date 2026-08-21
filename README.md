@@ -10,20 +10,20 @@
 
 <div align="center">
 
-| 🎓 **Degree** | 3rd-Year BSIT — Major in Software Technology |
+| **Degree** | 3rd-Year BSIT — Major in Software Technology |
 |:---|:---|
-| 🏫 **University** | West Visayas State University |
-| 🏆 **Scholarship** | DOST-SEI Scholar · Batch 2024 |
-| 🔭 **Currently** | Learning Python, AI, and ML · Open to internships & freelance collaborations |
-| 📫 **Email** | markcadangin@gmail.com |
+| **University** | West Visayas State University |
+| **Scholarship** | DOST-SEI Scholar · Batch 2024 |
+| **Currently** | Learning Python, AI, and ML · Open to internships & freelance collaborations |
+| **Email** | markcadangin@gmail.com |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 1 · 🌊 [SmartFlow — Field-Deployed IoT Water-Pump Controller](https://github.com/markalvincadangin/smart-water-pump-controller)
+### <a href="https://github.com/markalvincadangin/smart-water-pump-controller"><img src="https://raw.githubusercontent.com/markalvincadangin/smart-water-pump-controller/main/app/src/main/res/drawable/app_logo.png" width="38" alt="SmartFlow logo" /></a> [SmartFlow — Field-Deployed IoT Water-Pump Controller](https://github.com/markalvincadangin/smart-water-pump-controller)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -40,7 +40,7 @@
 
 ---
 
-### 2 · 🏢 [HavenStay BHMS — Bed-Level Property Management Platform](https://github.com/markalvincadangin/havenstay)
+### <a href="https://github.com/markalvincadangin/havenstay"><img src="https://raw.githubusercontent.com/markalvincadangin/havenstay/master/frontend/public/logo.svg" width="38" alt="HavenStay logo" /></a> [HavenStay BHMS — Bed-Level Property Management Platform](https://github.com/markalvincadangin/havenstay)
 
 ![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -57,7 +57,7 @@
 
 ---
 
-### 3 · 🧺 [Faith Laundry Shop — Laundry Management System Prototype](https://github.com/markalvincadangin/laundry-shop-management-system)
+### <a href="https://github.com/markalvincadangin/laundry-shop-management-system"><img src="https://raw.githubusercontent.com/markalvincadangin/laundry-shop-management-system/main/frontend/public/assets/app-icon/app-icon.png" width="38" alt="Faith Laundry Shop logo" /></a> [Faith Laundry Shop — Laundry Management System Prototype](https://github.com/markalvincadangin/laundry-shop-management-system)
 
 ![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Spring Boot 3.5](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -68,11 +68,11 @@
 
 - **Custom dynamic pricing engine** — Computes laundry loads by weight, applies configurable service rates, and price-snapshots each order at creation for historical integrity.
 - **QR-code customer portal** — Customers scan the QR on their thermal receipt and see live order status on a public Vercel portal. No login required.
-- **Offline-first Windows installer** — Inno Setup provisions PostgreSQL, configures a WinSW background service, and writes production configuration without requiring developer tools on the target machine.
+- **Offline-first Windows installer** — Inno Setup provisions PostgreSQL, configures a WinSW background service, and writes application configuration without requiring developer tools on the target machine.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -108,7 +108,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -118,7 +118,7 @@
 
 ---
 
-## 📬 Let's Connect
+## Connect
 
 <div align="center">
 

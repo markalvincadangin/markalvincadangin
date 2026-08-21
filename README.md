@@ -42,6 +42,8 @@
 
 ### <a href="https://github.com/markalvincadangin/havenstay"><img src="https://raw.githubusercontent.com/markalvincadangin/havenstay/master/frontend/public/logo.svg" width="34" height="34" align="absmiddle" alt="HavenStay logo" /></a> [HavenStay BHMS — Bed-Level Property Management Platform](https://github.com/markalvincadangin/havenstay)
 
+[Repository](https://github.com/markalvincadangin/havenstay) · [Live demo](https://havenstay-theta.vercel.app)
+
 ![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Laravel 13](https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -58,6 +60,8 @@
 ---
 
 ### <a href="https://github.com/markalvincadangin/laundry-shop-management-system"><img src="https://raw.githubusercontent.com/markalvincadangin/laundry-shop-management-system/main/frontend/public/assets/app-icon/app-icon.png" width="34" height="34" align="absmiddle" alt="Faith Laundry Shop logo" /></a> [Faith Laundry Shop — Laundry Management System Prototype](https://github.com/markalvincadangin/laundry-shop-management-system)
+
+[Repository](https://github.com/markalvincadangin/laundry-shop-management-system) · [Live demo](https://laundry-shop-management-system.vercel.app)
 
 ![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Spring Boot 3.5](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)

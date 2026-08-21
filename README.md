@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mark%20Alvin%20Cadangin&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20and%20IoT%20Systems%20Developer&descSize=18&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mark%20Alvin%20Cadangin&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=BSIT%20Student%20Developer%20%7C%20Full-Stack%20and%20IoT&descSize=18&descAlignY=58&descAlign=50" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Field-deployed+IoT+%C2%B7+production+software+systems;Kotlin+%7C+Next.js+%7C+Laravel+%7C+Spring+Boot;From+embedded+firmware+to+full-stack+applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Building+full-stack+and+IoT+projects;Kotlin+%7C+Next.js+%7C+Laravel+%7C+Spring+Boot;Currently+learning+Python%2C+AI%2C+and+ML" alt="Typing SVG" />
 
 </div>
 
@@ -10,12 +10,11 @@
 
 <div align="center">
 
-| 🎓 **Degree** | BSIT — Major in Software Development Technologies |
+| 🎓 **Degree** | 3rd-Year BSIT — Major in Software Technology |
 |:---|:---|
 | 🏫 **University** | West Visayas State University |
-| 🏆 **Scholarship** | DOST Scholar |
-| 📍 **Location** | Leon, Iloilo, Philippines |
-| 🔭 **Currently** | Building reliable full-stack and IoT systems · Open to internships & freelance |
+| 🏆 **Scholarship** | DOST-SEI Scholar · Batch 2024 |
+| 🔭 **Currently** | Learning Python, AI, and ML · Open to internships & freelance collaborations |
 | 📫 **Email** | markcadangin@gmail.com |
 
 </div>
@@ -50,7 +49,7 @@
 ![Tailwind v4](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-> A platform for boarding houses and shared residences, designed around bed-level occupancy, contract lifecycles, metered utilities, and database-level auditability.
+> A personal coursework prototype for boarding houses and shared residences, designed around bed-level occupancy, contract lifecycles, metered utilities, and database-level auditability.
 
 - **Bed-level occupancy engine** — Atomic reservation states and prorated utility rollover calculation across shared meter configurations.
 - **45 forensic database triggers** — Tamper-resistant, immutable before/after JSON state diffs that run independently of application code — zero-trust at the database layer.
@@ -58,14 +57,14 @@
 
 ---
 
-### 3 · 🧺 [Faith Laundry Shop — Production Laundry Management System](https://github.com/markalvincadangin/laundry-shop-management-system)
+### 3 · 🧺 [Faith Laundry Shop — Laundry Management System Prototype](https://github.com/markalvincadangin/laundry-shop-management-system)
 
 ![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Spring Boot 3.5](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-> A production-deployed system for a real laundry business in Iloilo City, replacing handwritten logbooks with order automation, reporting, and customer tracking.
+> A personal coursework prototype that models a real laundry workflow with order automation, reporting, and customer-facing tracking.
 
 - **Custom dynamic pricing engine** — Computes laundry loads by weight, applies configurable service rates, and price-snapshots each order at creation for historical integrity.
 - **QR-code customer portal** — Customers scan the QR on their thermal receipt and see live order status on a public Vercel portal. No login required.
@@ -109,13 +108,26 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=markalvincadangin&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=markalvincadangin&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-markcadangin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markcadangin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark_Alvin_Cadangin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-alvin-cadangin)
-[![Facebook](https://img.shields.io/badge/Facebook-markalvin.cadangin-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/markalvin.cadangin)
 
 </div>
 

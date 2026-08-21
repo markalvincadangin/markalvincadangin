@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mark%20Alvin%20Cadangin&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%26%20IoT%20Systems%20Developer&descSize=18&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mark%20Alvin%20Cadangin&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20and%20IoT%20Systems%20Developer&descSize=18&descAlignY=58&descAlign=50" />
 
 <div align="center">
 

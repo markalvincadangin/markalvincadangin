@@ -9,6 +9,7 @@ I am a 3rd-year BSIT student from Leon, Iloilo, Philippines, majoring in Softwar
 |:---|:---|
 | **University** | West Visayas State University (2024 – Present) |
 | **Scholarship** | DOST-SEI Scholar · Batch 2024 (Department of Science and Technology) |
+| **Academic Honors** | CICT Parangal Gold Medalist (1st Year) · Silver Medalist (2nd Year) |
 | **Location** | Leon, Iloilo, Philippines |
 | **Currently** | Open to Full-Stack Software Engineering internships & collaborations |
 | **Email** | markcadangin@gmail.com |

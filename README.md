@@ -1,7 +1,7 @@
 # Mark Alvin Cadangin
 ### Software Development Technologies · West Visayas State University
 
-I am a 3rd-year BSIT student and DOST-SEI Scholar (Batch 2024) from Leon, Iloilo, Philippines. I build practical full-stack web applications and hardware projects that solve tangible day-to-day problems.
+I am a 3rd-year BSIT student and DOST-SEI Scholar (Batch 2024) from Leon, Iloilo, Philippines. I build full-stack web applications and connected hardware projects to solve everyday operational problems.
 
 <div align="center">
 
@@ -19,7 +19,7 @@ I am a 3rd-year BSIT student and DOST-SEI Scholar (Batch 2024) from Leon, Iloilo
 
 ## Featured Projects
 
-### <a href="https://github.com/markalvincadangin/smart-water-pump-controller"><img src="https://raw.githubusercontent.com/markalvincadangin/smart-water-pump-controller/main/app/src/main/res/drawable/app_logo.png" width="34" height="34" align="absmiddle" alt="SmartFlow logo" /></a> [SmartFlow — Residential IoT Water-Pump Controller](https://github.com/markalvincadangin/smart-water-pump-controller)
+### <a href="https://github.com/markalvincadangin/smart-water-pump-controller"><img src="assets/smartflow.png" width="34" height="34" align="absmiddle" alt="SmartFlow logo" /></a> [SmartFlow — Residential IoT Water-Pump Controller](https://github.com/markalvincadangin/smart-water-pump-controller)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -36,7 +36,7 @@ I am a 3rd-year BSIT student and DOST-SEI Scholar (Batch 2024) from Leon, Iloilo
 
 ---
 
-### <a href="https://github.com/markalvincadangin/CONVERA"><img src="https://raw.githubusercontent.com/markalvincadangin/CONVERA/main/web/public/brand/brandmark.png" width="34" height="34" align="absmiddle" alt="CONVERA logo" /></a> [CONVERA — Evidence-Driven Project Intelligence System](https://github.com/markalvincadangin/CONVERA)
+### <a href="https://github.com/markalvincadangin/CONVERA"><img src="assets/convera.png" width="34" height="34" align="absmiddle" alt="CONVERA logo" /></a> [CONVERA — Research & Project Proposal Validation Platform](https://github.com/markalvincadangin/CONVERA)
 
 [Repository](https://github.com/markalvincadangin/CONVERA)
 
@@ -47,16 +47,16 @@ I am a 3rd-year BSIT student and DOST-SEI Scholar (Batch 2024) from Leon, Iloilo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind v4](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-> An ongoing personal project that helps student developers and researchers turn unstructured notes, interview quotes, and literature into structured, decision-ready proposals before writing code.
+> An ongoing personal project that helps student developers and researchers organize problem interviews, scholarly citations, and requirements into structured proposals before writing code.
 
 - **Dual validation workflows** — Guides project ideas through two structured paths: a 7-phase process for startups (problem screening, Mom Test customer interviews, MVP scope check) and an 8-stage process for academic computing research (literature grounding, gap analysis, DSR artifact formulation).
-- **Interactive evidence graph** — Visualizes the lineage from research papers and interview quotes down to concrete software requirements, making sure every proposed feature is justified by evidence.
-- **Tool integrations** — Exports validated proposals and citations directly to Notion, Zotero (BibTeX and CSL-JSON), and GitHub Issues with verifiable audit logs.
+- **Interactive evidence graph** — Visualizes traceability from research papers and customer interview notes down to concrete software requirements.
+- **Tool integrations** — Exports validated proposals and citations directly to Notion, Zotero (BibTeX and CSL-JSON), and GitHub Issues.
 - **Deterministic scoring** — Ranks problem opportunities using explicit mathematical formulas and rubric criteria rather than unpredictable LLM prompts, backed by 338 automated backend tests.
 
 ---
 
-### <a href="https://github.com/markalvincadangin/havenstay"><img src="https://raw.githubusercontent.com/markalvincadangin/havenstay/master/frontend/public/logo.svg" width="34" height="34" align="absmiddle" alt="HavenStay logo" /></a> [HavenStay BHMS — Bed-Level Property Management Platform](https://github.com/markalvincadangin/havenstay)
+### <a href="https://github.com/markalvincadangin/havenstay"><img src="assets/havenstay.svg" width="34" height="34" align="absmiddle" alt="HavenStay logo" /></a> [HavenStay BHMS — Bed-Level Property Management Platform](https://github.com/markalvincadangin/havenstay)
 
 [Repository](https://github.com/markalvincadangin/havenstay) · [Live demo](https://havenstay-theta.vercel.app)
 
@@ -75,7 +75,7 @@ I am a 3rd-year BSIT student and DOST-SEI Scholar (Batch 2024) from Leon, Iloilo
 
 ---
 
-### <a href="https://github.com/markalvincadangin/laundry-shop-management-system"><img src="https://raw.githubusercontent.com/markalvincadangin/laundry-shop-management-system/main/frontend/public/assets/app-icon/app-icon.png" width="34" height="34" align="absmiddle" alt="Faith Laundry Shop logo" /></a> [Faith Laundry Shop — Management System Prototype](https://github.com/markalvincadangin/laundry-shop-management-system)
+### <a href="https://github.com/markalvincadangin/laundry-shop-management-system"><img src="assets/faith-laundry.png" width="34" height="34" align="absmiddle" alt="Faith Laundry Shop logo" /></a> [Faith Laundry Shop — Management System Prototype](https://github.com/markalvincadangin/laundry-shop-management-system)
 
 [Repository](https://github.com/markalvincadangin/laundry-shop-management-system) · [Live demo](https://laundry-shop-management-system.vercel.app)
 
@@ -84,7 +84,7 @@ I am a 3rd-year BSIT student and DOST-SEI Scholar (Batch 2024) from Leon, Iloilo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-> A coursework capstone based on the daily operations of Faith Laundry Shop in Iloilo, replacing vulnerable paper notebooks with order automation and live customer tracking.
+> A coursework capstone based on the daily operations of Faith Laundry Shop in Iloilo, replacing handwritten logbooks with order intake automation and live customer tracking.
 
 - **Weight-based pricing with price snapshots** — Automatically calculates order totals by weight and service tier, saving fixed pricing snapshots at order creation so future rate updates never alter historical receipts.
 - **QR receipt customer tracking** — Customers scan the QR code printed on their thermal paper receipt to check their laundry status on a public web page with zero login required.

@@ -1,20 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mark%20Alvin%20Cadangin&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=BSIT%20Student%20Developer%20%7C%20Full-Stack%20and%20IoT&descSize=18&descAlignY=58&descAlign=50" />
+# Mark Alvin Cadangin
+### Software Development Technologies · West Visayas State University
+
+I am a 3rd-year BSIT student and DOST-SEI Scholar (Batch 2024) from Leon, Iloilo, Philippines. I build practical full-stack web applications and hardware projects that solve tangible day-to-day problems.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Building+full-stack+and+IoT+projects;Kotlin+%7C+Next.js+%7C+Laravel+%7C+Spring+Boot;Currently+learning+Python%2C+AI%2C+and+ML" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-| **Degree** | 3rd-Year BSIT — Major in Software Technology |
+| **Degree** | 3rd-Year BSIT — Major in Software Development Technologies |
 |:---|:---|
-| **University** | West Visayas State University |
+| **University** | West Visayas State University (2024 – Present) |
 | **Scholarship** | DOST-SEI Scholar · Batch 2024 |
-| **Currently** | Learning Python, AI, and ML · Open to internships & freelance collaborations |
+| **Location** | Leon, Iloilo, Philippines |
+| **Currently** | Open to Full-Stack Software Engineering internships & collaborations |
 | **Email** | markcadangin@gmail.com |
 
 </div>
@@ -23,7 +19,7 @@
 
 ## Featured Projects
 
-### <a href="https://github.com/markalvincadangin/smart-water-pump-controller"><img src="https://raw.githubusercontent.com/markalvincadangin/smart-water-pump-controller/main/app/src/main/res/drawable/app_logo.png" width="34" height="34" align="absmiddle" alt="SmartFlow logo" /></a> [SmartFlow — Field-Deployed IoT Water-Pump Controller](https://github.com/markalvincadangin/smart-water-pump-controller)
+### <a href="https://github.com/markalvincadangin/smart-water-pump-controller"><img src="https://raw.githubusercontent.com/markalvincadangin/smart-water-pump-controller/main/app/src/main/res/drawable/app_logo.png" width="34" height="34" align="absmiddle" alt="SmartFlow logo" /></a> [SmartFlow — Residential IoT Water-Pump Controller](https://github.com/markalvincadangin/smart-water-pump-controller)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -32,11 +28,31 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_RTDB-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-> A field-deployed residential deep-well pump and water-tank controller I designed, built, and installed in Iloilo, Philippines. It is an operating prototype, not a commercially certified controller.
+> A residential deep-well pump and water-tank controller I designed, built, and installed in Leon, Iloilo to prevent motor burnouts and eliminate daily manual monitoring. It is an operating prototype at one residential site, not a commercial product.
 
-- **Two-node controller** — An ESP32 master and ESP8266 tank node exchange framed telemetry over an approximately 40 m RS-485 link with CRC validation and freshness checks.
-- **Local safety gates** — Hardware protection, firmware lockouts, dry-run detection, emergency stop, and maximum-runtime controls keep shutdown decisions local when cloud connectivity is unavailable.
-- **Native Android client** — Kotlin and Jetpack Compose provide BLE provisioning, real-time telemetry, AUTO/MANUAL/COUNTDOWN control, diagnostics, and activity history through Firebase services.
+- **Two-node wired architecture** — An ESP32 master at the pump and an ESP8266 node at the elevated 660L tank communicate over a 40-meter CAT6 RS-485 link with CRC validation to eliminate motor electrical interference.
+- **Local firmware safety limits** — All critical shutdown logic (15-second dry-run lockout, 45-minute continuous run ceiling, and communication heartbeat loss) runs directly on the ESP32 with an industrial CJX2 contactor, ensuring the pump shuts down safely even if Wi-Fi drops.
+- **Native Android app** — Built with Kotlin and Jetpack Compose for Bluetooth setup, real-time tank level monitoring, manual override, and telemetry history.
+
+---
+
+### <a href="https://github.com/markalvincadangin/CONVERA"><img src="https://raw.githubusercontent.com/markalvincadangin/CONVERA/main/web/public/brand/brandmark.png" width="34" height="34" align="absmiddle" alt="CONVERA logo" /></a> [CONVERA — Evidence-Driven Project Intelligence System](https://github.com/markalvincadangin/CONVERA)
+
+[Repository](https://github.com/markalvincadangin/CONVERA)
+
+![Next.js 15](https://img.shields.io/badge/Next.js_15.2-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI_0.115-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python 3.12](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite WAL](https://img.shields.io/badge/SQLite_WAL_38_Tables-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind v4](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+> An ongoing personal project that helps student developers and researchers turn unstructured notes, interview quotes, and literature into structured, decision-ready proposals before writing code.
+
+- **Dual validation workflows** — Guides project ideas through two structured paths: a 7-phase process for startups (problem screening, Mom Test customer interviews, MVP scope check) and an 8-stage process for academic computing research (literature grounding, gap analysis, DSR artifact formulation).
+- **Interactive evidence graph** — Visualizes the lineage from research papers and interview quotes down to concrete software requirements, making sure every proposed feature is justified by evidence.
+- **Tool integrations** — Exports validated proposals and citations directly to Notion, Zotero (BibTeX and CSL-JSON), and GitHub Issues with verifiable audit logs.
+- **Deterministic scoring** — Ranks problem opportunities using explicit mathematical formulas and rubric criteria rather than unpredictable LLM prompts, backed by 338 automated backend tests.
 
 ---
 
@@ -51,15 +67,15 @@
 ![Tailwind v4](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-> A personal coursework prototype for boarding houses and shared residences, designed around bed-level occupancy, contract lifecycles, metered utilities, and database-level auditability.
+> A coursework prototype for boarding houses near universities, designed around individual bed-space vacancies, shared utility billing, and database-level auditability.
 
-- **Bed-level occupancy engine** — Atomic reservation states and prorated utility rollover calculation across shared meter configurations.
-- **45 forensic database triggers** — Tamper-resistant, immutable before/after JSON state diffs that run independently of application code — zero-trust at the database layer.
-- **Read/write database topology** — MySQL 8.4 primary-replica replication, idempotency protection for mutations, and Docker Compose-based local orchestration.
+- **Bed-level occupancy and billing** — Tracks individual bed reservations, security deposits, and prorated utility calculations across shared electric and water sub-meters.
+- **45 MySQL audit triggers** — Automatically log before-and-after snapshots directly in the database whenever room assignments or balances change, so audit logs cannot be bypassed by application bugs.
+- **Primary-replica database setup** — Separates daily transactional writes from monthly billing reports using MySQL 8.4 replication orchestrated with Docker Compose.
 
 ---
 
-### <a href="https://github.com/markalvincadangin/laundry-shop-management-system"><img src="https://raw.githubusercontent.com/markalvincadangin/laundry-shop-management-system/main/frontend/public/assets/app-icon/app-icon.png" width="34" height="34" align="absmiddle" alt="Faith Laundry Shop logo" /></a> [Faith Laundry Shop — Laundry Management System Prototype](https://github.com/markalvincadangin/laundry-shop-management-system)
+### <a href="https://github.com/markalvincadangin/laundry-shop-management-system"><img src="https://raw.githubusercontent.com/markalvincadangin/laundry-shop-management-system/main/frontend/public/assets/app-icon/app-icon.png" width="34" height="34" align="absmiddle" alt="Faith Laundry Shop logo" /></a> [Faith Laundry Shop — Management System Prototype](https://github.com/markalvincadangin/laundry-shop-management-system)
 
 [Repository](https://github.com/markalvincadangin/laundry-shop-management-system) · [Live demo](https://laundry-shop-management-system.vercel.app)
 
@@ -68,11 +84,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-> A personal coursework prototype that models a real laundry workflow with order automation, reporting, and customer-facing tracking.
+> A coursework capstone based on the daily operations of Faith Laundry Shop in Iloilo, replacing vulnerable paper notebooks with order automation and live customer tracking.
 
-- **Custom dynamic pricing engine** — Computes laundry loads by weight, applies configurable service rates, and price-snapshots each order at creation for historical integrity.
-- **QR-code customer portal** — Customers scan the QR on their thermal receipt and see live order status on a public Vercel portal. No login required.
-- **Offline-first Windows installer** — Inno Setup provisions PostgreSQL, configures a WinSW background service, and writes application configuration without requiring developer tools on the target machine.
+- **Weight-based pricing with price snapshots** — Automatically calculates order totals by weight and service tier, saving fixed pricing snapshots at order creation so future rate updates never alter historical receipts.
+- **QR receipt customer tracking** — Customers scan the QR code printed on their thermal paper receipt to check their laundry status on a public web page with zero login required.
+- **Offline-first Windows installer** — Uses Inno Setup to automatically install PostgreSQL and run the application as a background Windows service on the shop counter PC.
 
 ---
 
@@ -80,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,ts,js,java,php,cpp&perline=6" />
+<img src="https://skillicons.dev/icons?i=kotlin,py,ts,js,java,cpp,php&perline=7" />
 <br/>
 <sub><b>Languages</b></sub>
 
@@ -92,7 +108,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=spring,laravel,nodejs&perline=3" />
+<img src="https://skillicons.dev/icons?i=fastapi,spring,laravel,nodejs&perline=4" />
 <br/>
 <sub><b>Backend</b></sub>
 
@@ -112,11 +128,12 @@
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=markalvincadangin&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=markalvincadangin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=markalvincadangin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -130,5 +147,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark_Alvin_Cadangin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-alvin-cadangin)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />

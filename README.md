@@ -1,14 +1,14 @@
 # Mark Alvin Cadangin
 ### Software Development Technologies · West Visayas State University
 
-I am a 3rd-year BSIT student and DOST-SEI Scholar (Batch 2024) from Leon, Iloilo, Philippines. I build full-stack web applications and connected hardware projects to solve everyday operational problems.
+I am a 3rd-year BSIT student from Leon, Iloilo, Philippines, majoring in Software Development Technologies. I build full-stack web applications and connected hardware projects to solve everyday operational problems.
 
 <div align="center">
 
 | **Degree** | 3rd-Year BSIT — Major in Software Development Technologies |
 |:---|:---|
 | **University** | West Visayas State University (2024 – Present) |
-| **Scholarship** | DOST-SEI Scholar · Batch 2024 |
+| **Scholarship** | DOST-SEI Scholar · Batch 2024 (Department of Science and Technology) |
 | **Location** | Leon, Iloilo, Philippines |
 | **Currently** | Open to Full-Stack Software Engineering internships & collaborations |
 | **Email** | markcadangin@gmail.com |

@@ -1,16 +1,16 @@
-# Mark Alvin Cadangin
-
-### Software Development Technologies · West Visayas State University
-
-I am a 3rd-year BSIT student from Leon, Iloilo, Philippines, majoring in Software Development Technologies. I build full-stack web applications, database architectures, and connected hardware projects to solve operational problems.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mark%20Alvin%20Cadangin&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=36&desc=BSIT%20%C2%B7%20Software%20Development%20Technologies%20%C2%B7%20WVSU&descSize=18&descAlignY=58&descAlign=50" alt="Mark Alvin Cadangin Header Banner" />
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Software+that+matches+how+people+actually+work;Next.js+%C2%B7+Spring+Boot+%C2%B7+Laravel+%C2%B7+FastAPI+%C2%B7+ESP32;DOST-SEI+Scholar+%C2%B7+West+Visayas+State+University" alt="Typing SVG" />
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-markcadangin.me-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://markcadangin.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark_Alvin_Cadangin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-alvin-cadangin)
 [![Email](https://img.shields.io/badge/Email-markcadangin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markcadangin@gmail.com)
 
-<br/>
+<br/><br/>
 
 | Field | Detail |
 | :--- | :--- |
@@ -39,7 +39,7 @@ I am a 3rd-year BSIT student from Leon, Iloilo, Philippines, majoring in Softwar
 ![RS-485](https://img.shields.io/badge/RS--485-Wired_Link-4B5563?style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase_RTDB-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-> A residential deep-well pump and water-tank automation system designed, built, and installed in Leon, Iloilo to prevent motor dry-run burnouts and eliminate daily manual monitoring. An operating hardware installation at one residential site.
+> A residential deep-well pump and water-tank automation system designed, built, and installed in Leon, Iloilo to prevent motor dry-run burnouts and eliminate daily manual monitoring. An operating hardware installation at one residential site, not a commercial product.
 
 - **Two-Node Wired Architecture**: An ESP32 master at the pump and an ESP8266 node at the elevated 660L tank communicate over a 40-meter CAT6 RS-485 link with CRC validation to eliminate motor electrical noise.
 - **Local Firmware Safety Limits**: All critical shutdown logic (15-second dry-run lockout, 45-minute continuous run ceiling, and communication heartbeat loss) runs directly on the ESP32 with an industrial CJX2 contactor and snubber circuits, ensuring safe shutdown even when Wi-Fi is disconnected.
@@ -114,7 +114,7 @@ I am a 3rd-year BSIT student from Leon, Iloilo, Philippines, majoring in Softwar
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-F56565?style=flat-square)
 
-> An academic prototype for CIT 213 (Human-Computer Interaction 2), modeled on clinical intake workflows at West Visayas State University Medical Center (WVSUMC) to reduce emergency room intake delays.
+> An academic prototype for CIT 213 (Human-Computer Interaction 2), modeled on clinical intake workflows at West Visayas State University Medical Center (WVSUMC) to reduce emergency room intake delays. Built by Acebuche, Ardeña, Benjamin, Cadangin, and Tamaño.
 
 - **Dual-Viewport Architecture**: Built two purpose-designed interfaces: a 5-step self-service kiosk with regional dialect support, an anatomical symptom body map, and numeric pain rating for walk-in patients, paired with a widescreen workstation for triage nurses.
 - **Nurse-Controlled ESI Assessment**: Staff workstation featuring a live intake queue, nurse-controlled Emergency Severity Index (ESI) scoring, and simulated vitals telemetry (pulse, SpO2).
@@ -179,3 +179,7 @@ I am a 3rd-year BSIT student from Leon, Iloilo, Philippines, majoring in Softwar
 [![GitHub](https://img.shields.io/badge/GitHub-markalvincadangin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/markalvincadangin)
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Waving Banner" />

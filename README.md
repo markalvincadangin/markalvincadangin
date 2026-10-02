@@ -19,14 +19,14 @@ I am a 3rd-year BSIT student from Leon, Iloilo, Philippines, majoring in Softwar
 | **Scholarship** | DOST-SEI Scholar · Batch 2024 (Department of Science and Technology) |
 | **Academic Honors** | CICT Parangal Gold Medalist (1st Year) · Silver Medalist (2nd Year) |
 | **Location** | Leon, Iloilo, Philippines |
-| **Status** | Open to Full-Stack Software Engineering internships & technical collaborations |
+| **Status** | Open to Full-Stack Software Development internships & technical collaborations |
 | **Portfolio** | [markcadangin.me](https://markcadangin.me) |
 
 </div>
 
 ---
 
-## Featured Engineering Projects
+## Featured Projects
 
 ### <a href="https://github.com/markalvincadangin/smart-water-pump-controller"><img src="assets/smartflow.png" width="32" height="32" align="absmiddle" alt="SmartFlow logo" /></a> [SmartFlow — Residential IoT Water-Pump Controller](https://github.com/markalvincadangin/smart-water-pump-controller)
 
@@ -57,7 +57,7 @@ I am a 3rd-year BSIT student from Leon, Iloilo, Philippines, majoring in Softwar
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind v4](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-> A full-stack research engineering tool helping student researchers and developers organize problem interviews, scholarly citations, and technical requirements into structured proposals before writing code.
+> A full-stack research and project proposal platform helping student researchers and developers organize problem interviews, scholarly citations, and technical requirements into structured proposals before writing code.
 
 - **Dual Validation Workflows**: Guides project concepts through two pathways: a 7-phase startup discovery process (Mom Test customer interviews, problem screening, MVP scoping) and an 8-stage academic research framework (literature grounding, gap analysis, DSR artifact formulation).
 - **Deterministic Evaluation**: Ranks problem opportunities using explicit mathematical formulas and rubric criteria rather than generative LLM prompts, verified by 338 automated backend tests.
